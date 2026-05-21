@@ -273,9 +273,8 @@ print(f"Reloaded: {df.count():,} rows — ready to continue")
 **Nikhil Kumar**
 B.Tech Computer Science — Chandigarh University (2022–2026)
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhil--mkbn-black?logo=github)]([https://github.com](https://github.com/nikhil-2818))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/nikhil-kumar-007n))
-
+[![GitHub](https://img.shields.io/badge/GitHub-nikhil--mkbn-black?logo=github)](https://github.com/nikhil-2818)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nikhil-kumar-007n)
 ---
 
 *Built on Databricks Free Edition · Apache Spark 3.5 · MLflow · Delta Lake*
